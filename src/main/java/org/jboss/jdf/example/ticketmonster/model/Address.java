@@ -18,6 +18,7 @@ import javax.persistence.Embeddable;
  * @author Pete Muir
  */
 
+
 @SuppressWarnings("serial")
 @Embeddable
 public class Address implements Serializable {
